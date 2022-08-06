@@ -3,7 +3,7 @@ Note: This project is based on Raspberry Pi
 
 What can this project do?
 
-    After installing the client part in any Raspberry Pi , you can use Host program to get its basic information like hostname, ip address and mac address.In addition,       the clint program could run automatically even you reboot you device.
+    After installing the client part in any Raspberry Pi , you can use Host program to get its basic information like hostname, ip address and mac address.In addition, the clint program could run automatically even you reboot you device.
     
 How to use this project?
 
