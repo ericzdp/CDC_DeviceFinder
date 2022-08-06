@@ -1,0 +1,7 @@
+The shell file "Auto.sh" , "DeviceFinder_Host.sh" are part of installation, please do not modify
+
+
+
+
+#Eric 
+#2022.8.2

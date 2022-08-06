@@ -1,0 +1,63 @@
+###########################################################################
+
+Instructions of Host_DeviceFinder:
+
+###########################################################################
+
+
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+After installing the "Install_Host.sh",,when you want your Raspberry Pi can
+get hostname,ip,mac from other devices,you can use "Run_Host_DeviceFinder.sh"
+
+
+---------------------------------------------------------------------------
+The Using Steps of "Run_Host_DeviceFinder.sh":
+
+1: Open a terminal.
+
+2: Input the "sudo sh" and the path of "Run_Host_DeviceFinder.sh".
+   EXAMPLE: "sudo sh /home/Host_DeviceFinder/Run_Host_DeviceFinder.sh".
+
+3: Press the "Enter" on the keyboard. 
+
+4: When you are in office, the deafult prefix of ip is 10, you can use the 
+   command "ifconfig" in another terminal to confirm. If you make sure
+   that the "10" is correct, you can press anyt button except the 'y' or 
+   'Y', and the program will run with the default ip_prefix '10'.you will 
+   see the word"Keep the dafault prefix of IP: 10" 
+
+5: If you want to change the default ip_prefix, you can follow instruction
+   in the terminal, press 'y' or 'Y' to get the changing options.
+   Tips: the ip_prefix is a number such like 10 ,192  
+
+6: After you setting, the program will run immmediately, you can get the
+   information soon
+
+
+
+
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+When you want to remove the Host_DeceiveFinder,you can use "Remove_Host.sh"
+
+1: Open a terminal.
+
+2: Input the "sudo sh" and the path of "Run_Host_DeviceFinder.sh".
+   EXAMPLE: "sudo sh /home/Host_DeviceFinder/Run_Host_DeviceFinder.sh".
+
+3: Press the "Enter" on the keyboard. 
+
+4: The uninstall will finish after you see the information "The program
+   'Device_Finder_host' is removed from your device" on the terminal.
+
+
+
+
+
+#Eric 
+#2022.8.2
+
+

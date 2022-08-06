@@ -1,0 +1,40 @@
+###########################################################################
+
+Instructions of Client_DeviceFinder:
+
+###########################################################################
+
+
+
+
+---------------------------------------------------------------------------
+---------------------------------------------------------------------------
+The program 'Device_Finder_clinent' could run automatically after booting,
+you shouldn't install the program everytime when you reboot.
+
+
+
+
+---------------------------------------------------------------------------
+When you want to remove the program and go back to the pre_installation 
+situation, you can use the "remove_Client.sh".
+
+
+The Using Steps of "Remove_Client.sh": 
+
+1: Open a terminal.
+
+2: Input the "sudo sh" and the path of "Remove_Client.sh".
+   EXAMPLE: "sudo sh /home/pi/CDC_EE_DeviceFinder/Remove_Client.sh".
+
+3: The uninstall will finish after you see the information "The program
+   'Device_Finder_clinent' is removed from your device" on the terminal.
+
+
+
+
+
+
+#Eric 
+#2022.8.2
+
