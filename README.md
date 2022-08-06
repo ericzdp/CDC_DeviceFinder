@@ -1,2 +1,2 @@
-# CDC_DeviceFinder
+# CDC_EE_DeviceFinder
 Program with shell and python 
